@@ -1,3 +1,4 @@
-Current Version x.x.x | Date xx-xx-xxxx
+Revo IRC
 =
+Current Version x.x.x | Date xx-xx-xxxx
 Download now in "Releases"
