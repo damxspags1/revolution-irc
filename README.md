@@ -1,6 +1,6 @@
 Revo IRC
 =
-New update optimized for users of Chatzona/Chatsfree/Chateagratis coming soon in 0.9.0.5<br>
+Today new update optimized for users of Chatzona/Chatsfree/Chateagratis in 0.9.0.5<br>
 Current Version 0.9.0.1 | 16 June 2026<br>
 Download now in "Releases"<br>
 You can also download the source code in ZIP format from the Releases section (it will be labelled by date)<br>
