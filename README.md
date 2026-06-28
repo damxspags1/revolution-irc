@@ -1,6 +1,6 @@
 Revo IRC
 =
-Next Coming Release Version 0.9.0.9 | 28 June 2026<br>
+Next Release Version 0.9.0.9 | 28 June 2026<br>
 -<br>
 Current Version 0.9.0.8 | 23 June 2026<br>
 Download now in "Releases"<br>
